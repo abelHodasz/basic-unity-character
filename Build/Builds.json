@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Zsezse",
+"productName": "Basic character controll",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
